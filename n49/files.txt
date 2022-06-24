@@ -1,0 +1,8 @@
+8cea315ee9ea02bb13b3041905448cd9  /home/pi/msl/n49/status.txt
+ea332f32cb209ced9e3dae1b3165cc89  /home/pi/msl/n49/logger.log
+3f9dc84e2004c0f34772299217ee8084  /home/pi/msl/n49/output0.csv
+67ea3d66e132201cd97a8a79263c371b  /home/pi/msl/n49/main.py
+ea332f32cb209ced9e3dae1b3165cc89  /home/pi/msl/n49/output.log
+647c6ccd39c721d41567b2b0e3bc276f  /home/pi/msl/n49/output1.csv
+340e7963b7f2d078239e01e12addaf5a  /home/pi/msl/n49/._main.py
+1f774296cdc68c855c8d5dc918da2302  /home/pi/msl/n49/time.txt
